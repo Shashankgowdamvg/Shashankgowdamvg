@@ -6,3 +6,5 @@ A Software Engineering Student from Karnataka,India
 - 📫 How to reach me at mvs717504@gmail.com
 
 [![Shashankowdamvg GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg)](https://github.com/Shashankgowdamvg/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankgowdamvga&layout=pie)](https://github.com/Shashankgowdamvg/github-readme-stats)
