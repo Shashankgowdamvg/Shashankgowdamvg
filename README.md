@@ -7,3 +7,4 @@ A Software Engineering Student from Karnataka,India
 
 
 ![Shashankgowdamvg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg&show_icons=true)
+![Shashankgowdamvg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg&show_icons=true&theme=radical)
