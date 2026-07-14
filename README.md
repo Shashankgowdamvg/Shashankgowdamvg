@@ -1,50 +1,41 @@
-# 👋 Hello, I'm Shashank Gowda M V
+<h1 align="center">Hi 👋, I'm Shashank Gowda M V</h1>
 
-### Software Engineer | Python Developer | AI & ML Enthusiast
-
-🌱 Currently learning Python, Django, React, AWS & DevOps
-
-💻 Building Full Stack and AI-powered applications
-
-📫 Reach me: shashankgowdamv12@gmail.com
-
-🔗 LeetCode: https://leetcode.com/u/Shashankgowdamv
-
----
-## 📊 GitHub Stats
+<h3 align="center">Software Engineer | Python Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashankgowdamvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/Shashankgowdamvg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shashankgowdamv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Shashankgowdamv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankgowdamvg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Shashankgowdamvg&theme=tokyonight&hide_border=true"/>
 </p>
----
 
-## 🛠️ Languages & Tools
+
+
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,sql,mysql,git,github,vscode,aws"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,mysql,git,github,vscode,aws"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shashankgowdamvg&theme=tokyonight&margin-w=15"/>
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankgowdamvg&theme=tokyo-night"/>
 </p>
 
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
