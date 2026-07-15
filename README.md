@@ -14,9 +14,10 @@
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shashankgowdamvg&theme=tokyonight&hide_border=true"/>
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shashankgowdamvg)
+
+
 
 
 
