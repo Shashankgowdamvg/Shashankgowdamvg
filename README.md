@@ -13,7 +13,7 @@
 
 - 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects**
 
-- 📄 Check out my resume here - **Coming Soon**
+- 📄 Check out my resume here - **[Resume](https://drive.google.com/file/d/1iqBtHzGzX1FTXuE7c1GJAXuDr90EBDJT/view?usp=sharing)**
 
 - 💻 All of my projects are available on **[GitHub](https://github.com/shashankgowdamvg)**
 
