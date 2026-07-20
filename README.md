@@ -40,7 +40,7 @@
   <a href="https://leetcode.com/u/Shashankgowdamv">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/shashankgowdamv">
+  <a href="https://www.hackerrank.com/profile/mvs717504">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="mailto:shashankgowdamv12@gmail.com">
