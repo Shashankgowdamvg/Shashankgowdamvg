@@ -58,7 +58,7 @@
 
 ### Frontend:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Programming:
@@ -66,9 +66,9 @@
   <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
-### Backend:
+### Frameworks:
 <p>
-  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=django,react" />
 </p>
 
 ### Database:
