@@ -23,7 +23,7 @@
 
 - 🎯 Solving **LeetCode** daily to strengthen Data Structures & Algorithms
 
-- 📫 Reach me at **shashankgowdamv12@gmail.com**
+- 📫 Reach me at **shashankgowdamv12@gmail.com** 
 
 ## Connect With Me
 
