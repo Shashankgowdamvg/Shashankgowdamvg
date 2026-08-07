@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankgowdamvg" />
 </p>
 
-- 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI** 
+- 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI**  
 
 - 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects**
 
