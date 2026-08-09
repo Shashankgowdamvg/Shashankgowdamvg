@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI**  
 
-- 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects**
+- 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects** 
 
 - 📄 Check out my resume here - **[Resume](https://drive.google.com/file/d/1iqBtHzGzX1FTXuE7c1GJAXuDr90EBDJT/view?usp=sharing)**  
 
