@@ -20,7 +20,7 @@
 
 - 🧠 Ask me about **Python, SQL, Django, React.js, JavaScript, AI & Machine Learning**
 
-- 🎯 Solving **LeetCode** daily to strengthen Data Structures & Algorithms 
+- 🎯 Solving **LeetCode** daily to strengthen Data Structures & Algorithms  
 
 - 📫 Reach me at **shashankgowdamv12@gmail.com** 
 
