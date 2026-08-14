@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankgowdamvg" />
+  <img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankgowdamvg" /> 
 </p>
 
 - 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI**  
