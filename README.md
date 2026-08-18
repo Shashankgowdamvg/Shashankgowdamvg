@@ -49,8 +49,7 @@
 
 # GitHub Streak 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashankgowdamvg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankgowdamvg&" alt="Shashankgowdamvg" /></p>
 
 
 ## Languages and Tools:
