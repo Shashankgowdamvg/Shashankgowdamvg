@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shashank Gowda M V</h1>    
    
-<p align="center"> 
+<p align="center">   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankgowdamvg" /> 
+  <img src="https://komarev.com/ghpvc/?username=Shashankgowdamvg&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankgowdamvg" />
 </p> 
 
 - 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI**  
 
 - 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects** 
 
-- 📄 Check out my resume here - **[Resume](https://drive.google.com/file/d/1iqBtHzGzX1FTXuE7c1GJAXuDr90EBDJT/view?usp=sharing)**   
+- 📄 Check out my resume here - **[Resume](https://drive.google.com/file/d/1iqBtHzGzX1FTXuE7c1GJAXuDr90EBDJT/view?usp=sharing)**     
 
 - 💻 All of my projects are available on **[GitHub](https://github.com/shashankgowdamvg)**
 
