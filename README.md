@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank Gowda M V</h1>    
+<h1 align="center">Hi 👋, I'm Shashank Gowda M V</h1>     
    
 <p align="center">   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
