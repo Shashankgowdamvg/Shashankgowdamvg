@@ -95,6 +95,8 @@
 
 # Contribution Graph:
 
+<h2 align="center">📊 GitHub Contributions</h2>
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankgowdamvg&theme=tokyo-night"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
