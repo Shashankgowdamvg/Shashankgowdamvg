@@ -92,9 +92,3 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![AntiGravity](https://img.shields.io/badge/AntiGravity-AI-blueviolet?style=for-the-badge)
 
-
-# Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankgowdamvg&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
