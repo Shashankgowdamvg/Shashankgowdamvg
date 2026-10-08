@@ -15,7 +15,7 @@
 
 - 💻 All of my projects are available on **[GitHub](https://github.com/shashankgowdamvg)** 
 
-- 🎥 I create programming and computer science content on **[My Educational Channel](https://www.youtube.com/@ShashankGowdaMV)** 
+- 🎥 I create programming and computer science content on **[My Educational Channel](https://www.youtube.com/@techwithspringbytes)** 
 
 - 🧠 Ask me about **Python, SQL, Django, React.js, JavaScript, AI & Machine Learning**  
 
