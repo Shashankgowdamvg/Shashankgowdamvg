@@ -46,6 +46,8 @@
   </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
+
 # GitHub Streak 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankgowdamvg&" alt="Shashankgowdamvg" /></p>
