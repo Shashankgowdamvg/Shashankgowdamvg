@@ -21,7 +21,11 @@
 
 - 🎯 Solving **LeetCode** daily to strengthen Data Structures & Algorithms   
 
-- 📫 Reach me at **shashankgowdamv12@gmail.com** 
+- 📫 Reach me at **shashankgowdamv12@gmail.com**
+
+## GitHub Stats:
+
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
 
 ## Connect With Me
 
@@ -46,7 +50,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
+
 
 # GitHub Streak 
 
