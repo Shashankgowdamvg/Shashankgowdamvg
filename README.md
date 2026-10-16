@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
 
 
-## Connect With Me
+<h3 align="left">Connect Here</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashankgowdamv">
@@ -53,7 +53,7 @@
 
 
 
-# GitHub Streak 
+<h3 align="left">GitHub Streak</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankgowdamvg&" alt="Shashankgowdamvg" /></p>
 
