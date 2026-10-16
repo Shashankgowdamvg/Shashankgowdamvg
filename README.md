@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
 
 # GitHub Streak 
 
