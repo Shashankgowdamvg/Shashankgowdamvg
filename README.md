@@ -23,9 +23,10 @@
 
 - 📫 Reach me at **shashankgowdamv12@gmail.com**
 
-## GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgowdamvg&show_icons=true&locale=en" alt="shashankgowdamvg" /></p>
+
 
 ## Connect With Me
 
