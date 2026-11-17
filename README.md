@@ -6,7 +6,7 @@
 </p>  
 
 
-
+ 
 - 🌱 I'm currently learning **Python Full Stack Development, Django, React.js & Generative AI**            
 
 - 🚀 I'm currently working on **Open Source Contributions and Full Stack Projects**   
